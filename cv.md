@@ -1,4 +1,7 @@
 # Maia Bokhua
+
+![Photo](photo.jpg)
+
 **Contact Information:**
 Email: ma.bokhua@gmail.com
 Mobile: +995 599 544 922

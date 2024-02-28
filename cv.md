@@ -1,6 +1,6 @@
 # Maia Bokhua
 
-![Photo](https://maiabokhua.github.io/web-cv/photo.jpg)
+![Photo](photo.jpg)
 
 **Contact Information:**
 Email: ma.bokhua@gmail.com
